@@ -4,8 +4,11 @@
     - more efficient representation
     - implement setter function e.g. no more (setf (aref text-buffer ...) ...)
   * cell-colors in SVG renderer
+  * SVG images are bloated, due to overlapping lines
+
 * Grid
   * what should be done with DISTANCE-FUNCTION etc? 
+
 * Generators
   * more algos (wilson's algorithm for spanning trees, recursive backtracking)
   
