@@ -1,0 +1,11 @@
+* Renderers
+  * text and svg renderers should have a common interface
+  * text-buffer
+    - more efficient representation
+    - implement setter function e.g. no more (setf (aref text-buffer ...) ...)
+  * cell-colors in SVG renderer
+* Grid
+  * what should be done with DISTANCE-FUNCTION etc? 
+* Generators
+  * more algos (wilson's algorithm for spanning trees, recursive backtracking)
+  
