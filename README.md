@@ -2,7 +2,7 @@
 
 CL-MAZE is a package for generating mazes and rendering them, either to text or as [svg images](https://cdn.rawgit.com/kilimanjaro/cl-maze/master/maze40x40.svg).
 
-## Example
+### Example
 ```
 CL-USER> (asdf:load-system "cl-maze")
 T
